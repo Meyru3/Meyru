@@ -11,9 +11,20 @@
 
 
 
+## 👀 Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=Meyru)
+
+
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Meyru\&show_icons=true)
+
+
+## 📈 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Meyru)
 
 
 
@@ -23,14 +34,14 @@ I am a beginner developer passionate about cybersecurity and malware analysis.
 I enjoy learning how systems work and building small Python tools to explore security concepts.
 
 
-
 ## 🧰 Tools & Technologies
 
-* Python
-* Linux
-* Git
-* Regex
-* Static file analysis
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+</p>
 
 
 ## 📂 Current Project
@@ -44,6 +55,7 @@ A Python tool that analyzes files and extracts useful information such as:
 * URL detection
 
 
+
 ## 🎯 Goals
 
 * Learn malware analysis
@@ -51,9 +63,17 @@ A Python tool that analyzes files and extracts useful information such as:
 * Build useful cybersecurity tools
 
 
+
 ## 📫 Feedback
 
 I am still learning, so feedback, suggestions, and contributions are always welcome!
+
+
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Meyru/Meyru/blob/output/github-contribution-grid-snake.svg)
+
 
 
 © 2026 Meyru
