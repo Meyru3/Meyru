@@ -70,10 +70,4 @@ I am still learning, so feedback, suggestions, and contributions are always welc
 
 
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Meyru/Meyru/blob/output/github-contribution-grid-snake.svg)
-
-
-
 © 2026 Meyru
