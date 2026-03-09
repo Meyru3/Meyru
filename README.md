@@ -1,14 +1,27 @@
 # Hi, I'm Meyru 👋
 
+![Python](https://img.shields.io/badge/Python-blue)
+![Linux](https://img.shields.io/badge/Linux-black)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red)
+![Beginner](https://img.shields.io/badge/Level-Beginner-green)
+
 🔐 Cybersecurity learner
 🐍 Python developer in progress
 🛠 Building small security and malware analysis tools
+
+
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Meyru\&show_icons=true)
+
 
 
 ## 🚀 About Me
 
 I am a beginner developer passionate about cybersecurity and malware analysis.
 I enjoy learning how systems work and building small Python tools to explore security concepts.
+
 
 
 ## 🧰 Tools & Technologies
@@ -24,7 +37,7 @@ I enjoy learning how systems work and building small Python tools to explore sec
 
 🛠 **File Analyzer**
 
-A Python tool that analyzes files and extracts useful information like:
+A Python tool that analyzes files and extracts useful information such as:
 
 * File hashes (MD5 / SHA256)
 * Strings inside binaries
